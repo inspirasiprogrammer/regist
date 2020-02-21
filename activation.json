@@ -8,7 +8,7 @@
         "code":200,
         "start_date": "Wednesday, December 11, 2019",
         "expiry": "Friday, March 27, 2020",
-        "MultiDevice":1,        
+        "MultiDevice":0,        
         "uid": 
         {
           "Q8F84-5DD9-2AC1-2592-02A6-0BA7-32C2-E9A2":1,
@@ -23,7 +23,7 @@
         "code":200,
         "start_date": "Wednesday, December 11, 2019",
         "expiry": "Friday, March 27, 2020",
-        "MultiDevice":1,        
+        "MultiDevice":0,        
         "uid": 
         {
           "Q8F84-5DD9-2AC1-2592-02A6-0BA7-32C2-E9A2":1,
@@ -38,7 +38,7 @@
         "code":200,
         "start_date": "Wednesday, December 11, 2019",
         "expiry": "Friday, March 27, 2020",        
-        "MultiDevice":1,
+        "MultiDevice":0,
         "uid": 
         {
           "8F84-5DD9-2AC1-2592-02A6-0BA7-32C2-E9A2":1,
