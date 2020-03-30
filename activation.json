@@ -36,8 +36,8 @@
       {
         "code":200,
         "start_date": "December 11, 2019",
-        "expiry": "May 27, 2099",
-        "MultiDevice":0,        
+        "expiry": "May 27, 2020",
+        "MultiDevice":1,        
         "uid": 
         {
           "AF64D-0B4F-2814-0112-15ED-BF7F-277B-0AA3":1          
