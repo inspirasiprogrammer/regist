@@ -1,0 +1,16 @@
+{
+  "data": {
+    "informasi": {      
+      "code": 200,
+      "url_ig" : "https://www.instagram.com/inspirasiprogrammer/",
+      "url_yt" : "https://www.youtube.com/channel/UCcVRsze-0Bo9hxAqeqjfjQA?sub_confirmation=1",
+      "url_fb" : "https://www.facebook.com/Irsya05",
+      "url_wa" : "https://www.bit.ly/inspirasiprogrammer/",
+      "url_wb" : "http://inspirasiprogrammer.id",
+      "url_ml" : "https://mail.google.com/mail/u/0/?view=cm&fs=1&to=irwansyahputra92@gmail.com&su=PENTING&body=&tf=1",
+      "uid": {
+        "FC56-A72A-B885-FF5E-36B4-C774-DAA7-FFBC": 0          
+      }                              
+    }
+  }
+}
