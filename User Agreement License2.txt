@@ -1,3 +1,0 @@
-This Framework has made from C# Windows Forms Control.
-
-This Framework written by Irwan Syahputra 
